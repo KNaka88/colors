@@ -1,0 +1,27 @@
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
+}
+
+.font1 {
+  color: purple;
+}
+
+.font2 {
+  font-size: 50px;
+}
+
+.font1 .font2 {
+  font-style:italic;
+}
+
+.paragraph-size {
+  font-size: 40px;
+}
